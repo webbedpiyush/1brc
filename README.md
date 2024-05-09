@@ -33,3 +33,7 @@ In the final version, multi-threading was introduced to process the file in para
 ### Conclusion
 
 Through a series of optimizations, the code has evolved from a simple but slow implementation to a highly efficient and optimized version. These optimizations have significantly improved the performance of the code, making it suitable for large datasets.
+
+#### _To try the challenge_ 
+- go the [one billion row challenge](https://1brc.dev/)
+- my solutions are inspired by the community's solution ( kuddo's to the community )
